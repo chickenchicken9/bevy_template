@@ -7,7 +7,7 @@ It creates two workflows:
 * [CI](#CI)
 * [Release](#Release)
 
-## Running
+## Running locally
 
 Run natively (install [Rust](https://rustup.rs/) first):
 
