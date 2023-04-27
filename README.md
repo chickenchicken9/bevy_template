@@ -7,6 +7,20 @@ It creates two workflows:
 * [CI](#CI)
 * [Release](#Release)
 
+## Running
+
+Run natively (install [Rust](https://rustup.rs/) first):
+
+```sh
+cargo run
+```
+
+Run for web (install [Trunk](https://trunkrs.dev/#getting-started) first):
+
+```sh
+trunk serve
+```
+
 ## CI
 
 Definition: [.github/workflows/ci.yaml](./.github/workflows/ci.yaml)
